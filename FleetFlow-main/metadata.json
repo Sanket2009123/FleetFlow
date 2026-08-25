@@ -1,8 +1,0 @@
-{
-  "name": "FleetFlow 3D Enterprise Logistics Hub",
-  "description": "Enterprise fleet command center with real-time 3D WebGL digital twins, global flight radar, MERN stack MongoDB database integration, intelligent dispatch validation, and role-based user authentication.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
